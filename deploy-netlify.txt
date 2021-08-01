@@ -1,9 +1,0 @@
-
-
-
-netlify deploy
-
-
-pw: Lousoli-7822
-
-deploy path ./build
