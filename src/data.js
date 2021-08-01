@@ -521,7 +521,7 @@ export const dataFR = [
         correct: false,
       },
       {
-        text: "Le service européenne pour l'action extérieure",
+        text: "Le service européen pour l'action extérieure",
         correct: false,
       },
       {
